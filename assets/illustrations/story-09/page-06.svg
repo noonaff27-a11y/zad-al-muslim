@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+    <defs><linearGradient id="s" x2="0" y2="1"><stop stop-color="#fff0b0"/><stop offset="1" stop-color="#073d2e"/></linearGradient><filter id="d"><feDropShadow dx="0" dy="12" stdDeviation="10" flood-opacity=".28"/></filter></defs>
+    <rect width="800" height="500" rx="28" fill="url(#s)"/><circle cx="650" cy="90" r="48" fill="#d7ad42"/>
+    <path d="M0 420 Q200 330 400 410 T800 400 V500 H0Z" fill="#073d2e"/><g filter="url(#d)"><rect x="190" y="230" width="420" height="190" rx="25" fill="#d7ad42"/><path d="M190 230 L400 130 L610 230" fill="#fff0b0"/></g>
+    <text x="400" y="465" text-anchor="middle" font-family="Arial" font-size="20" font-weight="700" fill="#fff0b0">الطاعة</text></svg>

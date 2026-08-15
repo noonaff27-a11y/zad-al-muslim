@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="650" viewBox="0 0 900 650">
+<defs>
+ <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#9fd4ef"/><stop offset="1" stop-color="#f8dfad"/></linearGradient>
+ <linearGradient id="night" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#122a42"/><stop offset="1" stop-color="#6f6b55"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e9c86c"/><stop offset="1" stop-color="#a87924"/></linearGradient>
+ <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-opacity=".18"/></filter>
+</defs>
+<rect width="900" height="650" rx="30" fill="#f8f1df"/>
+
+<rect x="18" y="18" width="864" height="614" rx="28" fill="url(#sky)" stroke="#d7bd73" stroke-width="5"/>
+<path d="M0 430 Q150 340 300 430 T600 420 T900 430 V650 H0Z" fill="#2b7c9e"/>
+        <path d="M0 475 Q150 385 300 475 T600 465 T900 475" fill="none" stroke="#b8e5e5" stroke-width="28"/>
+        <path d="M0 535 Q150 445 300 535 T600 525 T900 535" fill="none" stroke="#d7f1e9" stroke-width="20"/>
+        <path d="M430 650 V330" stroke="#d7f1e9" stroke-width="120"/><path d="M430 650 V330" stroke="#2b7c9e" stroke-width="90"/>
+        <path d="M150 120 L180 180 L245 185 L195 225 L210 290 L150 255 L90 290 L105 225 L55 185 L120 180Z" fill="#fff2b6" opacity=".9"/>
+<rect x="30" y="470" width="840" height="140" rx="22" fill="#073c2c" opacity=".96"/>
+<circle cx="78" cy="505" r="27" fill="#f5df9b"/><text x="78" y="515" text-anchor="middle" font-size="25" font-weight="700" fill="#173d2d">18</text>
+<text x="450" y="530" text-anchor="middle" font-family="Tahoma,Arial" font-size="34" font-weight="700" fill="#fff8df">يونس عليه السلام</text>
+<text x="450" y="570" text-anchor="middle" font-family="Tahoma,Arial" font-size="18" fill="#e9d9a6">زاد المسلم • قصص الأنبياء للأطفال</text>
+
+</svg>

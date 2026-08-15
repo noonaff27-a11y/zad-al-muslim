@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="650" viewBox="0 0 900 650">
+<defs>
+ <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#9fd4ef"/><stop offset="1" stop-color="#f8dfad"/></linearGradient>
+ <linearGradient id="night" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#122a42"/><stop offset="1" stop-color="#6f6b55"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e9c86c"/><stop offset="1" stop-color="#a87924"/></linearGradient>
+ <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-opacity=".18"/></filter>
+</defs>
+<rect width="900" height="650" rx="30" fill="#f8f1df"/>
+<text x="450" y="85" text-anchor="middle" font-family="Tahoma,Arial" font-size="25" font-weight="700" fill="#6b5425">الناقة</text><path d="M0 470 Q180 390 360 460 T900 440 V650 H0Z" fill="#c99b5c"/>
+        <path d="M330 405 C300 330 335 275 380 290 C425 305 410 380 445 405 L500 405 C545 405 570 370 610 390 C645 407 640 455 600 468 L410 468 C350 470 315 445 330 405Z" fill="#b87539"/>
+        <path d="M505 400 C505 335 535 285 570 260 C600 240 620 270 610 300 C600 330 575 345 570 405" fill="#b87539"/>
+        <circle cx="592" cy="276" r="6" fill="#2d271e"/><path d="M620 300 Q650 305 660 292" fill="none" stroke="#2d271e" stroke-width="6"/>
+</svg>

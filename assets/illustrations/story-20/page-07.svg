@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+    <defs><linearGradient id="s" x2="0" y2="1"><stop stop-color="#e9f0dd"/><stop offset="1" stop-color="#184d67"/></linearGradient><filter id="d"><feDropShadow dx="0" dy="12" stdDeviation="10" flood-opacity=".28"/></filter></defs>
+    <rect width="800" height="500" rx="28" fill="url(#s)"/><circle cx="650" cy="90" r="48" fill="#d9ae4e"/>
+    <path d="M0 420 Q200 330 400 410 T800 400 V500 H0Z" fill="#184d67"/><g filter="url(#d)"><circle cx="400" cy="260" r="130" fill="#d9ae4e"/><path d="M230 420 Q400 300 570 420" fill="none" stroke="#e9f0dd" stroke-width="40"/></g>
+    <text x="400" y="465" text-anchor="middle" font-family="Arial" font-size="20" font-weight="700" fill="#e9f0dd">العبرة</text></svg>

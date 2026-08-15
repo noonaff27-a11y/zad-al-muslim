@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 760"><defs><linearGradient id="g" x2="0" y2="1"><stop stop-color="#0b5a42"/><stop offset="1" stop-color="#032d22"/></linearGradient></defs>
+    <rect width="600" height="760" rx="34" fill="url(#g)"/><circle cx="300" cy="255" r="175" fill="#d7ad42" opacity=".18"/>
+    <rect x="150" y="210" width="300" height="205" rx="20" fill="#f6e8b7"/><path d="M300 210v205" stroke="#9c7b32" stroke-width="9"/><path d="M165 245 Q230 215 292 245 V395 Q230 365 165 395Z" fill="#fffaf0"/><path d="M308 245 Q370 215 435 245 V395 Q370 365 308 395Z" fill="#fffaf0"/>
+    <circle cx="300" cy="100" r="45" fill="#d7ad42"/><text x="300" y="116" text-anchor="middle" font-size="48" fill="#073d2e">☾</text>
+    <text x="300" y="505" text-anchor="middle" font-family="Arial" font-size="31" font-weight="900" fill="#f6e6b0">آدم عليه السلام</text><text x="300" y="560" text-anchor="middle" font-family="Arial" font-size="21" fill="#fff8df">قصة مصورة للأطفال</text><text x="300" y="615" text-anchor="middle" font-family="Arial" font-size="20" fill="#d7ad42">9 صفحات</text></svg>

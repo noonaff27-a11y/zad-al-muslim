@@ -1,0 +1,937 @@
+[
+  {
+    "id": 1,
+    "title": "آدم عليه السلام",
+    "cover": "assets/covers/1.svg",
+    "pages": [
+      {
+        "title": "بداية الخلق",
+        "text": "خلق الله آدم عليه السلام، وكان أول البشر، وعلّمه الله ما شاء من العلم.",
+        "image": "assets/illustrations/adam/1.svg"
+      },
+      {
+        "title": "تكريم آدم",
+        "text": "أكرم الله آدم عليه السلام، وعلّمه أسماء الأشياء، وبيّن للملائكة فضله بما علّمه الله.",
+        "image": "assets/illustrations/adam/2.svg"
+      },
+      {
+        "title": "السكن في الجنة",
+        "text": "أسكن الله آدم وزوجه الجنة، وأباح لهما نعيمها، ونهاهما عن الاقتراب من شجرة معينة.",
+        "image": "assets/illustrations/adam/3.svg"
+      },
+      {
+        "title": "وسوسة الشيطان",
+        "text": "حاول الشيطان إغواء آدم وزوجه، ووسوس لهما حتى وقعا في الخطأ.",
+        "image": "assets/illustrations/adam/4.svg"
+      },
+      {
+        "title": "الابتلاء",
+        "text": "أدرك آدم وزوجه خطأهما، ولم يكن طريقهما هو الإصرار على المعصية، بل الرجوع والندم.",
+        "image": "assets/illustrations/adam/5.svg"
+      },
+      {
+        "title": "التوبة",
+        "text": "تاب آدم إلى الله، وتعلّمنا قصته أن باب التوبة مفتوح لمن يرجع إلى ربه بصدق.",
+        "image": "assets/illustrations/adam/6.svg"
+      },
+      {
+        "title": "الهبوط إلى الأرض",
+        "text": "بدأت حياة آدم وذريته على الأرض، وأصبحت الدنيا دار ابتلاء وعمل، مع وعد الله بالهداية.",
+        "image": "assets/illustrations/adam/7.svg"
+      },
+      {
+        "title": "درس للأطفال",
+        "text": "نتعلم من القصة: طاعة الله، والحذر من وسوسة الشيطان، والاعتراف بالخطأ، والرجوع إلى الله.",
+        "image": "assets/illustrations/adam/8.svg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "إدريس عليه السلام",
+    "cover": "assets/covers/2.svg",
+    "pages": [
+      {
+        "title": "بداية دعوة إدريس",
+        "text": "كان إدريس عليه السلام من الأنبياء الصالحين.",
+        "image": "assets/illustrations/story2/1.svg"
+      },
+      {
+        "title": "الدعوة إلى الخير",
+        "text": "دعا قومه إلى طاعة الله والعمل الصالح.",
+        "image": "assets/illustrations/story2/2.svg"
+      },
+      {
+        "title": "الصبر على الدعوة",
+        "text": "علّمت قصته قيمة الصبر والثبات.",
+        "image": "assets/illustrations/story2/3.svg"
+      },
+      {
+        "title": "درس القصة",
+        "text": "العمل الصالح والصدق من أسباب الخير.",
+        "image": "assets/illustrations/story2/4.svg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "نوح عليه السلام",
+    "cover": "assets/covers/3.svg",
+    "pages": [
+      {
+        "title": "دعوة نوح",
+        "text": "دعا نوح قومه إلى عبادة الله وحده.",
+        "image": "assets/illustrations/story3/1.svg"
+      },
+      {
+        "title": "سنوات طويلة",
+        "text": "استمر في الدعوة وصبر على الأذى.",
+        "image": "assets/illustrations/story3/2.svg"
+      },
+      {
+        "title": "السفينة",
+        "text": "أمره الله بصنع السفينة استعدادًا للطوفان.",
+        "image": "assets/illustrations/story3/3.svg"
+      },
+      {
+        "title": "بداية الطوفان",
+        "text": "جاء الماء بأمر الله وبدأت السفينة في الإبحار.",
+        "image": "assets/illustrations/story3/4.svg"
+      },
+      {
+        "title": "النجاة",
+        "text": "نجّى الله نوحًا ومن آمن معه.",
+        "image": "assets/illustrations/story3/5.svg"
+      },
+      {
+        "title": "بعد الطوفان",
+        "text": "استقرت السفينة وانتهى الابتلاء.",
+        "image": "assets/illustrations/story3/6.svg"
+      },
+      {
+        "title": "درس القصة",
+        "text": "الصبر والثبات على الحق من أعظم الدروس.",
+        "image": "assets/illustrations/story3/7.svg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "هود عليه السلام",
+    "cover": "assets/covers/4.svg",
+    "pages": [
+      {
+        "title": "عاد",
+        "text": "كانت عاد قوية، لكن القوة لا تغني عن طاعة الله.",
+        "image": "assets/illustrations/story4/1.svg"
+      },
+      {
+        "title": "دعوة هود",
+        "text": "دعا هود قومه إلى التوحيد وترك الكبر.",
+        "image": "assets/illustrations/story4/2.svg"
+      },
+      {
+        "title": "رفض القوم",
+        "text": "أصر كثير منهم على العناد.",
+        "image": "assets/illustrations/story4/3.svg"
+      },
+      {
+        "title": "التحذير",
+        "text": "حذّرهم هود من عاقبة التكذيب.",
+        "image": "assets/illustrations/story4/4.svg"
+      },
+      {
+        "title": "الريح",
+        "text": "أرسل الله عليهم ريحًا شديدة بسبب كفرهم.",
+        "image": "assets/illustrations/story4/5.svg"
+      },
+      {
+        "title": "العبرة",
+        "text": "النعمة تحتاج إلى شكر، والقوة لا تعني الاستغناء عن الله.",
+        "image": "assets/illustrations/story4/6.svg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "صالح عليه السلام",
+    "cover": "assets/covers/5.svg",
+    "pages": [
+      {
+        "title": "ثمود",
+        "text": "أرسل الله صالحًا إلى ثمود.",
+        "image": "assets/illustrations/story5/1.svg"
+      },
+      {
+        "title": "دعوة صالح",
+        "text": "دعاهم إلى عبادة الله وحده.",
+        "image": "assets/illustrations/story5/2.svg"
+      },
+      {
+        "title": "الناقة",
+        "text": "جعل الله الناقة آية لهم.",
+        "image": "assets/illustrations/story5/3.svg"
+      },
+      {
+        "title": "التحذير",
+        "text": "نهاهم عن الاعتداء عليها.",
+        "image": "assets/illustrations/story5/4.svg"
+      },
+      {
+        "title": "العصيان",
+        "text": "اعتدى الظالمون عليها ولم يستجيبوا.",
+        "image": "assets/illustrations/story5/5.svg"
+      },
+      {
+        "title": "العبرة",
+        "text": "من أعظم الدروس احترام آيات الله وطاعة رسله.",
+        "image": "assets/illustrations/story5/6.svg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "إبراهيم عليه السلام",
+    "cover": "assets/covers/6.svg",
+    "pages": [
+      {
+        "title": "دعوة إبراهيم",
+        "text": "دعا إبراهيم قومه إلى عبادة الله وترك الشرك.",
+        "image": "assets/illustrations/story6/1.svg"
+      },
+      {
+        "title": "التأمل",
+        "text": "لفت قومه إلى بطلان عبادة ما لا ينفع ولا يضر.",
+        "image": "assets/illustrations/story6/2.svg"
+      },
+      {
+        "title": "مواجهة الشرك",
+        "text": "ثبت إبراهيم أمام قومه ولم يتراجع عن الحق.",
+        "image": "assets/illustrations/story6/3.svg"
+      },
+      {
+        "title": "الابتلاء",
+        "text": "مرّ إبراهيم بابتلاءات عظيمة وصبر عليها.",
+        "image": "assets/illustrations/story6/4.svg"
+      },
+      {
+        "title": "بناء الكعبة",
+        "text": "شارك إبراهيم وإسماعيل في رفع قواعد الكعبة.",
+        "image": "assets/illustrations/story6/5.svg"
+      },
+      {
+        "title": "درس القصة",
+        "text": "التوحيد والصبر والثبات من أعظم دروس قصة إبراهيم.",
+        "image": "assets/illustrations/story6/6.svg"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "لوط عليه السلام",
+    "cover": "assets/covers/7.svg",
+    "pages": [
+      {
+        "title": "قوم لوط",
+        "text": "أرسل الله لوطًا إلى قومه.",
+        "image": "assets/illustrations/story7/1.svg"
+      },
+      {
+        "title": "الدعوة إلى الطهارة",
+        "text": "دعاهم إلى ترك الفواحش والرجوع إلى الحق.",
+        "image": "assets/illustrations/story7/2.svg"
+      },
+      {
+        "title": "الإصرار على الخطأ",
+        "text": "لم يستجب كثير منهم واستمروا في المعصية.",
+        "image": "assets/illustrations/story7/3.svg"
+      },
+      {
+        "title": "النجاة",
+        "text": "نجّى الله لوطًا ومن آمن معه.",
+        "image": "assets/illustrations/story7/4.svg"
+      },
+      {
+        "title": "العبرة",
+        "text": "الطهارة والحياء والابتعاد عن الفواحش من دروس القصة.",
+        "image": "assets/illustrations/story7/5.svg"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "إسماعيل عليه السلام",
+    "cover": "assets/covers/8.svg",
+    "pages": [
+      {
+        "title": "إسماعيل",
+        "text": "كان إسماعيل عليه السلام نبيًا صالحًا.",
+        "image": "assets/illustrations/story8/1.svg"
+      },
+      {
+        "title": "الطاعة",
+        "text": "عُرف بالطاعة والصبر والوفاء.",
+        "image": "assets/illustrations/story8/2.svg"
+      },
+      {
+        "title": "بناء الكعبة",
+        "text": "ساعد أباه إبراهيم في رفع قواعد البيت.",
+        "image": "assets/illustrations/story8/3.svg"
+      },
+      {
+        "title": "زمزم ومكة",
+        "text": "ارتبطت قصته بأحداث عظيمة في وادي مكة.",
+        "image": "assets/illustrations/story8/4.svg"
+      },
+      {
+        "title": "درس القصة",
+        "text": "الطاعة والصبر والوفاء بالوعد صفات جميلة.",
+        "image": "assets/illustrations/story8/5.svg"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "إسحاق عليه السلام",
+    "cover": "assets/covers/9.svg",
+    "pages": [
+      {
+        "title": "البشارة",
+        "text": "بشّر الله إبراهيم بإسحاق.",
+        "image": "assets/illustrations/story9/1.svg"
+      },
+      {
+        "title": "نبي صالح",
+        "text": "كان إسحاق عليه السلام من الأنبياء الصالحين.",
+        "image": "assets/illustrations/story9/2.svg"
+      },
+      {
+        "title": "الذرية",
+        "text": "جاء من ذريته أنبياء وصالحون.",
+        "image": "assets/illustrations/story9/3.svg"
+      },
+      {
+        "title": "درس القصة",
+        "text": "نعمة الذرية الصالحة من أعظم النعم.",
+        "image": "assets/illustrations/story9/4.svg"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "يعقوب عليه السلام",
+    "cover": "assets/covers/10.svg",
+    "pages": [
+      {
+        "title": "يعقوب",
+        "text": "كان يعقوب عليه السلام نبيًا صالحًا.",
+        "image": "assets/illustrations/story10/1.svg"
+      },
+      {
+        "title": "يوسف وإخوته",
+        "text": "ابتُلي يعقوب بفراق يوسف وأخباره.",
+        "image": "assets/illustrations/story10/2.svg"
+      },
+      {
+        "title": "الصبر الجميل",
+        "text": "لم يفقد الأمل في رحمة الله.",
+        "image": "assets/illustrations/story10/3.svg"
+      },
+      {
+        "title": "اللقاء",
+        "text": "جمع الله شمل الأسرة بعد سنوات من الفراق.",
+        "image": "assets/illustrations/story10/4.svg"
+      },
+      {
+        "title": "درس القصة",
+        "text": "الصبر الجميل وحسن الظن بالله.",
+        "image": "assets/illustrations/story10/5.svg"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "يوسف عليه السلام",
+    "cover": "assets/covers/11.svg",
+    "pages": [
+      {
+        "title": "الرؤيا",
+        "text": "رأى يوسف رؤيا عظيمة في صغره.",
+        "image": "assets/illustrations/story11/1.svg"
+      },
+      {
+        "title": "غيرة الإخوة",
+        "text": "اشتدت غيرة بعض إخوته منه.",
+        "image": "assets/illustrations/story11/2.svg"
+      },
+      {
+        "title": "البئر",
+        "text": "أُلقي يوسف في البئر ثم جاءت قافلة فأخذته.",
+        "image": "assets/illustrations/story11/3.svg"
+      },
+      {
+        "title": "البيت",
+        "text": "انتقل يوسف إلى بيت العزيز في مصر.",
+        "image": "assets/illustrations/story11/4.svg"
+      },
+      {
+        "title": "الابتلاء",
+        "text": "مرّ بفتنة شديدة واختار العفة.",
+        "image": "assets/illustrations/story11/5.svg"
+      },
+      {
+        "title": "السجن",
+        "text": "دخل السجن ظلمًا، لكنه استمر في الإحسان.",
+        "image": "assets/illustrations/story11/6.svg"
+      },
+      {
+        "title": "تفسير الرؤيا",
+        "text": "أكرمه الله بعلم تفسير الرؤى.",
+        "image": "assets/illustrations/story11/7.svg"
+      },
+      {
+        "title": "التمكين",
+        "text": "خرج من السجن وتولى مسؤولية خزائن الأرض.",
+        "image": "assets/illustrations/story11/8.svg"
+      },
+      {
+        "title": "العفو",
+        "text": "اجتمع بإخوته واختار العفو بدل الانتقام.",
+        "image": "assets/illustrations/story11/9.svg"
+      },
+      {
+        "title": "اللقاء",
+        "text": "تحققت رؤياه القديمة واجتمعت الأسرة.",
+        "image": "assets/illustrations/story11/10.svg"
+      },
+      {
+        "title": "درس القصة",
+        "text": "الصبر والعفة والعفو والثقة بالله.",
+        "image": "assets/illustrations/story11/11.svg"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "شعيب عليه السلام",
+    "cover": "assets/covers/12.svg",
+    "pages": [
+      {
+        "title": "مدين",
+        "text": "أرسل الله شعيبًا إلى أهل مدين.",
+        "image": "assets/illustrations/story12/1.svg"
+      },
+      {
+        "title": "الميزان",
+        "text": "دعاهم إلى الوفاء بالكيل والميزان.",
+        "image": "assets/illustrations/story12/2.svg"
+      },
+      {
+        "title": "ترك الغش",
+        "text": "حذّرهم من أكل أموال الناس بالباطل.",
+        "image": "assets/illustrations/story12/3.svg"
+      },
+      {
+        "title": "رفض القوم",
+        "text": "أصر بعضهم على العناد.",
+        "image": "assets/illustrations/story12/4.svg"
+      },
+      {
+        "title": "العبرة",
+        "text": "الأمانة في البيع والشراء خلق عظيم.",
+        "image": "assets/illustrations/story12/5.svg"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "أيوب عليه السلام",
+    "cover": "assets/covers/13.svg",
+    "pages": [
+      {
+        "title": "ابتلاء أيوب",
+        "text": "ابتُلي أيوب عليه السلام ابتلاءً شديدًا.",
+        "image": "assets/illustrations/story13/1.svg"
+      },
+      {
+        "title": "الصبر",
+        "text": "صبر ولم يترك حسن الظن بالله.",
+        "image": "assets/illustrations/story13/2.svg"
+      },
+      {
+        "title": "الدعاء",
+        "text": "دعا ربه بكلمات صادقة.",
+        "image": "assets/illustrations/story13/3.svg"
+      },
+      {
+        "title": "كشف الضر",
+        "text": "استجاب الله له وكشف عنه الضر.",
+        "image": "assets/illustrations/story13/4.svg"
+      },
+      {
+        "title": "الدرس",
+        "text": "الصبر مع الرجاء في رحمة الله.",
+        "image": "assets/illustrations/story13/5.svg"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "موسى عليه السلام",
+    "cover": "assets/covers/14.svg",
+    "pages": [
+      {
+        "title": "موسى في مصر",
+        "text": "نشأ موسى عليه السلام في ظروف عظيمة.",
+        "image": "assets/illustrations/story14/1.svg"
+      },
+      {
+        "title": "مواجهة فرعون",
+        "text": "أرسله الله مع أخيه هارون إلى فرعون.",
+        "image": "assets/illustrations/story14/2.svg"
+      },
+      {
+        "title": "الآيات",
+        "text": "أيد الله موسى بآيات ومعجزات.",
+        "image": "assets/illustrations/story14/3.svg"
+      },
+      {
+        "title": "الخروج",
+        "text": "خرج موسى ببني إسرائيل.",
+        "image": "assets/illustrations/story14/4.svg"
+      },
+      {
+        "title": "البحر",
+        "text": "بلغوا البحر وفرعون خلفهم.",
+        "image": "assets/illustrations/story14/5.svg"
+      },
+      {
+        "title": "انفلاق البحر",
+        "text": "نجّى الله موسى ومن معه وشق لهم البحر.",
+        "image": "assets/illustrations/story14/6.svg"
+      },
+      {
+        "title": "نجاة المؤمنين",
+        "text": "غرق فرعون وجنوده، ونجا المؤمنون.",
+        "image": "assets/illustrations/story14/7.svg"
+      },
+      {
+        "title": "العصا",
+        "text": "كانت العصا من آيات موسى بإذن الله.",
+        "image": "assets/illustrations/story14/8.svg"
+      },
+      {
+        "title": "الرحلة",
+        "text": "واجه موسى ابتلاءات كثيرة وصبر.",
+        "image": "assets/illustrations/story14/9.svg"
+      },
+      {
+        "title": "درس القصة",
+        "text": "الشجاعة والثقة بالله وعدم اليأس.",
+        "image": "assets/illustrations/story14/10.svg"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "هارون عليه السلام",
+    "cover": "assets/covers/15.svg",
+    "pages": [
+      {
+        "title": "هارون",
+        "text": "كان هارون عليه السلام نبيًا صالحًا.",
+        "image": "assets/illustrations/story15/1.svg"
+      },
+      {
+        "title": "مع موسى",
+        "text": "أعان أخاه موسى في الدعوة.",
+        "image": "assets/illustrations/story15/2.svg"
+      },
+      {
+        "title": "البلاغ",
+        "text": "واجها فرعون ودعواه إلى الحق.",
+        "image": "assets/illustrations/story15/3.svg"
+      },
+      {
+        "title": "الصبر",
+        "text": "ثبتا أمام الطغيان.",
+        "image": "assets/illustrations/story15/4.svg"
+      },
+      {
+        "title": "درس القصة",
+        "text": "التعاون على الخير والصبر.",
+        "image": "assets/illustrations/story15/5.svg"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "داود عليه السلام",
+    "cover": "assets/covers/16.svg",
+    "pages": [
+      {
+        "title": "داود",
+        "text": "آتَى الله داود الملك والحكمة.",
+        "image": "assets/illustrations/story16/1.svg"
+      },
+      {
+        "title": "العبادة",
+        "text": "كان كثير العبادة والذكر.",
+        "image": "assets/illustrations/story16/2.svg"
+      },
+      {
+        "title": "العدل",
+        "text": "علّمه الله الحكم بالعدل.",
+        "image": "assets/illustrations/story16/3.svg"
+      },
+      {
+        "title": "الزبور",
+        "text": "آتاه الله الزبور.",
+        "image": "assets/illustrations/story16/4.svg"
+      },
+      {
+        "title": "القوة والشكر",
+        "text": "كان قويًا في الحق وشاكرًا لنعم الله.",
+        "image": "assets/illustrations/story16/5.svg"
+      },
+      {
+        "title": "درس القصة",
+        "text": "العدل والشكر والعبادة.",
+        "image": "assets/illustrations/story16/6.svg"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "سليمان عليه السلام",
+    "cover": "assets/covers/17.svg",
+    "pages": [
+      {
+        "title": "سليمان",
+        "text": "ورث سليمان داود عليهما السلام.",
+        "image": "assets/illustrations/story17/1.svg"
+      },
+      {
+        "title": "الحكمة",
+        "text": "آتاه الله حكمة وملكًا.",
+        "image": "assets/illustrations/story17/2.svg"
+      },
+      {
+        "title": "الجن والريح",
+        "text": "سخّر الله له من خلقه ما شاء.",
+        "image": "assets/illustrations/story17/3.svg"
+      },
+      {
+        "title": "الهدهد",
+        "text": "جاء الهدهد بخبر قوم سبأ.",
+        "image": "assets/illustrations/story17/4.svg"
+      },
+      {
+        "title": "ملكة سبأ",
+        "text": "دعاها سليمان إلى الحق.",
+        "image": "assets/illustrations/story17/5.svg"
+      },
+      {
+        "title": "الشكر",
+        "text": "كان سليمان شاكرًا لنعمة الله.",
+        "image": "assets/illustrations/story17/6.svg"
+      },
+      {
+        "title": "درس القصة",
+        "text": "القوة الحقيقية تكون مع الشكر والطاعة.",
+        "image": "assets/illustrations/story17/7.svg"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "يونس عليه السلام",
+    "cover": "assets/covers/18.svg",
+    "pages": [
+      {
+        "title": "يونس",
+        "text": "أرسل الله يونس إلى قومه.",
+        "image": "assets/illustrations/story18/1.svg"
+      },
+      {
+        "title": "الخروج",
+        "text": "خرج يونس قبل أن يأتيه الإذن بالرحيل.",
+        "image": "assets/illustrations/story18/2.svg"
+      },
+      {
+        "title": "السفينة",
+        "text": "ركب سفينة ووقعت قرعة في البحر.",
+        "image": "assets/illustrations/story18/3.svg"
+      },
+      {
+        "title": "الحوت",
+        "text": "ابتلعه الحوت بأمر الله.",
+        "image": "assets/illustrations/story18/4.svg"
+      },
+      {
+        "title": "الدعاء",
+        "text": "دعا يونس ربه في الظلمات.",
+        "image": "assets/illustrations/story18/5.svg"
+      },
+      {
+        "title": "النجاة",
+        "text": "استجاب الله له ونجّاه.",
+        "image": "assets/illustrations/story18/6.svg"
+      },
+      {
+        "title": "العودة",
+        "text": "عاد إلى قومه فآمنوا.",
+        "image": "assets/illustrations/story18/7.svg"
+      },
+      {
+        "title": "درس القصة",
+        "text": "لا نيأس من رحمة الله.",
+        "image": "assets/illustrations/story18/8.svg"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "زكريا عليه السلام",
+    "cover": "assets/covers/19.svg",
+    "pages": [
+      {
+        "title": "زكريا",
+        "text": "كان زكريا نبيًا صالحًا.",
+        "image": "assets/illustrations/story19/1.svg"
+      },
+      {
+        "title": "الدعاء",
+        "text": "دعا ربه أن يرزقه ذرية طيبة.",
+        "image": "assets/illustrations/story19/2.svg"
+      },
+      {
+        "title": "البشارة",
+        "text": "بشّره الله بيحيى.",
+        "image": "assets/illustrations/story19/3.svg"
+      },
+      {
+        "title": "العلامة",
+        "text": "جعل الله له علامة على البشارة.",
+        "image": "assets/illustrations/story19/4.svg"
+      },
+      {
+        "title": "درس القصة",
+        "text": "الدعاء والرجاء في رحمة الله.",
+        "image": "assets/illustrations/story19/5.svg"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "يحيى عليه السلام",
+    "cover": "assets/covers/20.svg",
+    "pages": [
+      {
+        "title": "يحيى",
+        "text": "كان يحيى نبيًا صالحًا.",
+        "image": "assets/illustrations/story20/1.svg"
+      },
+      {
+        "title": "الحكمة",
+        "text": "آتاه الله الحكم صبيًا.",
+        "image": "assets/illustrations/story20/2.svg"
+      },
+      {
+        "title": "الطهر",
+        "text": "كان مثالًا في العفة والتقوى.",
+        "image": "assets/illustrations/story20/3.svg"
+      },
+      {
+        "title": "البر",
+        "text": "كان بارًا بوالديه.",
+        "image": "assets/illustrations/story20/4.svg"
+      },
+      {
+        "title": "درس القصة",
+        "text": "الطهارة وبر الوالدين.",
+        "image": "assets/illustrations/story20/5.svg"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "إلياس عليه السلام",
+    "cover": "assets/covers/21.svg",
+    "pages": [
+      {
+        "title": "إلياس",
+        "text": "دعا إلياس قومه إلى عبادة الله.",
+        "image": "assets/illustrations/story21/1.svg"
+      },
+      {
+        "title": "رفض الشرك",
+        "text": "أنكر عليهم عبادة الأصنام.",
+        "image": "assets/illustrations/story21/2.svg"
+      },
+      {
+        "title": "الثبات",
+        "text": "ثبت على دعوته.",
+        "image": "assets/illustrations/story21/3.svg"
+      },
+      {
+        "title": "العبرة",
+        "text": "التوحيد يحتاج إلى ثبات وشجاعة.",
+        "image": "assets/illustrations/story21/4.svg"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "اليسع عليه السلام",
+    "cover": "assets/covers/22.svg",
+    "pages": [
+      {
+        "title": "اليسع",
+        "text": "كان اليسع من أنبياء الله الصالحين.",
+        "image": "assets/illustrations/story22/1.svg"
+      },
+      {
+        "title": "الدعوة",
+        "text": "دعا قومه إلى الحق.",
+        "image": "assets/illustrations/story22/2.svg"
+      },
+      {
+        "title": "الصبر",
+        "text": "صبر على الدعوة.",
+        "image": "assets/illustrations/story22/3.svg"
+      },
+      {
+        "title": "درس القصة",
+        "text": "الاستقامة والعمل الصالح.",
+        "image": "assets/illustrations/story22/4.svg"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "ذو الكفل عليه السلام",
+    "cover": "assets/covers/23.svg",
+    "pages": [
+      {
+        "title": "ذو الكفل",
+        "text": "كان من الصالحين.",
+        "image": "assets/illustrations/story23/1.svg"
+      },
+      {
+        "title": "الوفاء",
+        "text": "اشتهر بالوفاء والصبر.",
+        "image": "assets/illustrations/story23/2.svg"
+      },
+      {
+        "title": "تحمل المسؤولية",
+        "text": "قام بما التزم به.",
+        "image": "assets/illustrations/story23/3.svg"
+      },
+      {
+        "title": "العبرة",
+        "text": "الوفاء بالعهد خلق عظيم.",
+        "image": "assets/illustrations/story23/4.svg"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "عيسى عليه السلام",
+    "cover": "assets/covers/24.svg",
+    "pages": [
+      {
+        "title": "مولد عيسى",
+        "text": "بشّر الله مريم بعيسى عليه السلام.",
+        "image": "assets/illustrations/story24/1.svg"
+      },
+      {
+        "title": "الميلاد المعجز",
+        "text": "وُلد عيسى بمعجزة من الله.",
+        "image": "assets/illustrations/story24/2.svg"
+      },
+      {
+        "title": "الدعوة",
+        "text": "دعا بني إسرائيل إلى عبادة الله.",
+        "image": "assets/illustrations/story24/3.svg"
+      },
+      {
+        "title": "الآيات",
+        "text": "أيده الله بمعجزات بإذنه.",
+        "image": "assets/illustrations/story24/4.svg"
+      },
+      {
+        "title": "الحواريون",
+        "text": "آمن به الحواريون ونصروه.",
+        "image": "assets/illustrations/story24/5.svg"
+      },
+      {
+        "title": "النجاة",
+        "text": "رفع الله عيسى إليه ولم يقتل كما زعم أعداؤه.",
+        "image": "assets/illustrations/story24/6.svg"
+      },
+      {
+        "title": "درس القصة",
+        "text": "الإيمان بالله وتصديق رسله.",
+        "image": "assets/illustrations/story24/7.svg"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "محمد ﷺ",
+    "cover": "assets/covers/25.svg",
+    "pages": [
+      {
+        "title": "المولد والنشأة",
+        "text": "وُلد محمد ﷺ في مكة ونشأ فيها.",
+        "image": "assets/illustrations/story25/1.svg"
+      },
+      {
+        "title": "الصدق والأمانة",
+        "text": "اشتهر بين قومه بالصدق والأمانة.",
+        "image": "assets/illustrations/story25/2.svg"
+      },
+      {
+        "title": "بداية الوحي",
+        "text": "جاءه الوحي فبدأت الرسالة.",
+        "image": "assets/illustrations/story25/3.svg"
+      },
+      {
+        "title": "الدعوة",
+        "text": "دعا إلى توحيد الله وترك الشرك.",
+        "image": "assets/illustrations/story25/4.svg"
+      },
+      {
+        "title": "الأذى",
+        "text": "تحمل أذى المشركين وصبر.",
+        "image": "assets/illustrations/story25/5.svg"
+      },
+      {
+        "title": "الهجرة",
+        "text": "هاجر إلى المدينة بإذن الله.",
+        "image": "assets/illustrations/story25/6.svg"
+      },
+      {
+        "title": "بناء المجتمع",
+        "text": "بنى المسجد وآخى بين المسلمين.",
+        "image": "assets/illustrations/story25/7.svg"
+      },
+      {
+        "title": "فتح مكة",
+        "text": "دخل مكة فاتحًا وأظهر العفو.",
+        "image": "assets/illustrations/story25/8.svg"
+      },
+      {
+        "title": "حجة الوداع",
+        "text": "بلّغ الرسالة وأدى الأمانة.",
+        "image": "assets/illustrations/story25/9.svg"
+      },
+      {
+        "title": "درس السيرة",
+        "text": "الرحمة والصدق والصبر وحسن الخلق.",
+        "image": "assets/illustrations/story25/10.svg"
+      }
+    ]
+  }
+]

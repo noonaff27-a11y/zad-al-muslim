@@ -1,0 +1,1 @@
+const lb=JSON.parse(localStorage.getItem('zad_leaders')||'[]');document.getElementById('leaders').innerHTML=lb.length?lb.map((x,i)=>`<tr><td>${i+1}</td><td>${x.name}</td><td>${x.score}</td><td>${x.score}/${x.total}</td></tr>`).join(''):'<tr><td colspan="4">لم تبدأ أي اختبارات بعد.</td></tr>';
